@@ -6,7 +6,7 @@ function happyHolidaysTo(name) {
   return `Happy holidays, ${name}!`
 }
 
-function happyHolidayTo(string) {
+function happyHolidayTo(holiday, name) {
   var holiday = holiday.string()
   var name = name.string()
   return string = `Happy ${holiday}, ${name}!`
